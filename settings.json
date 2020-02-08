@@ -1,0 +1,26 @@
+{
+  "stockA": [
+    "Intel",
+    "INTC",
+    "1",
+    "blue"
+  ],
+  "stockB": [
+    "AMD",
+    "AMD",
+    "3",
+    "red"
+  ],
+  "stockC": [
+    "Facebook",
+    "FB",
+    "1",
+    "purple"
+  ],
+  "stockD": [
+    "Apple",
+    "AAPL",
+    "2",
+    "#949494"
+  ]
+}
